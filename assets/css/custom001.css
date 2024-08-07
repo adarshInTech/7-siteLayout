@@ -1,0 +1,66 @@
+body{
+	font-family: 'Titillium Web', sans-serif;
+}
+
+.section{
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+
+.section .section-heading{
+    text-align: center;
+}
+
+.section .section-heading>h2{
+    font-size: 40px;
+}
+
+.section .section-heading>p{
+    font-size: 18px;
+}
+
+.section-content{
+    margin-top: 50px;
+}
+
+
+.colorbg-01{
+    background-color: #87509c;
+}
+
+.colorbg-02{
+    background-color:#17c2a4;
+}
+
+.colorbg-02 .section-heading{
+	color: #fff !important;
+}
+
+.colorbg-03{
+    background-color: #e7f1f8;
+}
+
+.colorbg-03 .section-heading{
+	color: #3c4761 !important;
+}
+
+
+.colorbg-04{
+    background-color: #ffffff;
+}
+
+.colorbg-05{
+    background-color: #ffdd99;
+}
+
+.colorbg-06{
+    background-color: #d74680;
+}
+
+.colorbg-07{
+    background-color: #3c5499;
+}
+
+.pull-left{
+    float:left;
+}
